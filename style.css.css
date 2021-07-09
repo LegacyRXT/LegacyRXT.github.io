@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+  border-color: chocolate;
+  align-items: center;
+  font-family: 'Trebuchet MS'
+  on:focus
+
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  font-weight: lighter;
+}
+h2 {
+  color: brown;
+  text-align: right;
+  <p>
+  font-size:15 ;
